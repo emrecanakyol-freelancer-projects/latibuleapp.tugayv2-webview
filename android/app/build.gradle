@@ -76,10 +76,10 @@ android {
 
     namespace "com.latibuleapp"
     defaultConfig {
-        applicationId "com.latibule.v2"
+        applicationId "com.latibuleapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 3
+        versionCode 100
         versionName "1.0.0"
     }
     signingConfigs {
