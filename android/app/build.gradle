@@ -76,7 +76,7 @@ android {
 
     namespace "com.latibuleapp"
     defaultConfig {
-        applicationId "com.latibuleapp"
+        applicationId "com.latibule.v2"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 3
